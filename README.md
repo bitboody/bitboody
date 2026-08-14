@@ -1,16 +1,30 @@
-## Hi there 👋
+# Boody ˎˊ˗
+> EE student · Open-source maintainer · Low-level enthusiast
 
-<!--
-**bitboody/bitboody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`C` · `Python` · `TypeScript` · `6502` · `Linux`
 
-Here are some ideas to get you started:
+**building:** emulators · dev tools · wtv i find cool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**interests:** systems programming · computer architecture · web dev · open source
+
+> *when i don't understand it, i try building it*
+
+```
+                                                |>>>
+                                                |
+                                            _  _|_  _
+                                           |;|_|;|_|;|
+                                           \\.    .  /
+                                            \\:  .  /
+                                             ||:   |
+                                             ||:.  |
+                                             ||:  .|
+                                             ||:   |       \,/
+                                             ||: , |            /`\
+                                             ||:   |
+                                             ||: . |
+              __                            _||_   |
+     ____--`~    '--~~__            __ ----~    ~`---,              ___
+-~--~                   ~---__ ,--~'                  ~~----_____-~'   `~----~~
+
+```
