@@ -8,7 +8,7 @@
 > *when i don't understand it, i try building it*
 
 **working on:**
-* **Odysseus** · open-source tools and features
+* **Odysseus** · self-hosted ai workspace
 * **6502Emu** · instruction-accurate (eventually cycle-accurate) 6502 emulator written in C
 * **Hardware** · currently learning electronics basics
 
