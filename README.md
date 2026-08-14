@@ -3,11 +3,14 @@
 
 `C` · `Python` · `TypeScript` · `6502` · `Linux`
 
-**building:** emulators · dev tools · wtv i find cool
-
 **interests:** systems programming · computer architecture · web dev · open source
 
 > *when i don't understand it, i try building it*
+
+**working on:**
+* **Odysseus** · open-source tools and features
+* **6502Emu** · instruction-accurate (eventually cycle-accurate) 6502 emulator written in C
+* **Hardware** · currently learning electronics basics
 
 ```
                                                 |>>>
